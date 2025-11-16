@@ -55,7 +55,7 @@ I believe great software comes from great collaboration. You'll find me:
 
 <div align="center">
 
-⭐️ From [marcus-ships](https://github.com/marcus-builds-things)
+⭐️ From [marcus-builds-things](https://github.com/marcus-builds-things)
 
 </div>
 
