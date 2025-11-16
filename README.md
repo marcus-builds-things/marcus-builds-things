@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Marcus Hayes
 
-**Full-Stack Builder | Open Source Advocate | Passionate About Elegant Solutions**
+**Full-Stack Developer | Open Source Advocate | Passionate About Elegant Solutions**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marcus-builds-things&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/marcus-builds-things?label=Follow&style=social)](https://github.com/marcus-builds-things)
