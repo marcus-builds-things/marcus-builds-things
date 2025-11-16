@@ -2,7 +2,10 @@
 
 **Full-Stack Builder | Open Source Advocate | Passionate About Elegant Solutions**
 
-I'm a developer who loves solving real problems with clean, maintainable code. Currently building with **JavaScript/TypeScript, React, Node.js, and Python**—always exploring what's next in the tech landscape[web:12][web:16].
+![Profile Views](https://komarev.com/ghpvc/?username=marcus-ships&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/marcus-ships?label=Follow&style=social)](https://github.com/marcus-ships)
+
+I'm a developer who loves solving real problems with clean, maintainable code. Currently building with **JavaScript/TypeScript, React, Node.js, and Python**—always exploring what's next in the tech landscape.
 
 ### 🚀 What I'm Working On
 
@@ -13,7 +16,7 @@ I'm a developer who loves solving real problems with clean, maintainable code. C
 
 ### 💡 Currently Learning
 
-Diving deeper into **distributed systems**, **Rust**, and **cloud-native architectures**. Always excited to learn from the community and share what I discover[web:21][web:24].
+Diving deeper into **distributed systems**, **Rust**, and **cloud-native architectures**. Always excited to learn from the community and share what I discover.
 
 ### 🤝 How I Contribute
 
@@ -22,6 +25,8 @@ I believe great software comes from great collaboration. You'll find me:
 - Opening issues that help projects improve
 - Celebrating wins and learning from failures publicly
 - Helping junior devs navigate their growth journey
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -32,16 +37,25 @@ I believe great software comes from great collaboration. You'll find me:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### 📫 Let's Connect
-
-- **Email:** marcus.builds@example.com
-- **LinkedIn:** [linkedin.com/in/marcushayes](https://linkedin.com)
-- **Blog:** [marcusbuilds.dev](https://example.com)
-- **Twitter/X:** [@marcus_builds](https://twitter.com)
-
-💬 Always happy to chat about tech, collaborate on interesting projects, or grab virtual coffee. Feel free to reach out!
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-⭐️ From [marcus-builds](https://github.com/marcus-builds)
+### 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcus-ships&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-ships&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ From [marcus-ships](https://github.com/marcus-ships)
+
+</div>
+
