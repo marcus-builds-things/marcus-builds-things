@@ -2,8 +2,8 @@
 
 **Full-Stack Builder | Open Source Advocate | Passionate About Elegant Solutions**
 
-![Profile Views](https://komarev.com/ghpvc/?username=marcus-ships&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/marcus-ships?label=Follow&style=social)](https://github.com/marcus-builds-things)
+![Profile Views](https://komarev.com/ghpvc/?username=marcus-builds-things&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/marcus-builds-things?label=Follow&style=social)](https://github.com/marcus-builds-things)
 
 I'm a developer who loves solving real problems with clean, maintainable code. Currently building with **JavaScript/TypeScript, React, Node.js, and Python**—always exploring what's next in the tech landscape.
 
@@ -45,9 +45,9 @@ I believe great software comes from great collaboration. You'll find me:
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcus-ships&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcus-builds-things&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-ships&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-builds-things&layout=compact&theme=default&hide_border=true)
 
 </div>
 
